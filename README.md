@@ -10,5 +10,6 @@
 - [Инструкция по очистке кэша](user-docs/kedo-caсhе.md)
 
 ## Для поддержки
-- [Регламент работы для L1](support-docs/reg-support.md)
-- [Промпты для поддержки](support-docs/prom-sup.md)
+- [Регламент работы для L1](support-docs/sup-prom.md)
+- [Промпты для поддержки](support-docs/sup-prom.md)
+- [База готовых скриптов и шаблонов для обработки обращений специалистами L1](support-docs/sup-templates.md)
