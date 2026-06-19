@@ -6,9 +6,9 @@
 
 ## Для пользователей 
 ### КЭДО 
-- [FAQ КЭДО](faq-kedo.md)
-- [Инструкция по очистке кэша](kedo-caсhе.md)
+- [FAQ КЭДО](user-docs/faq-kedo.md)
+- [Инструкция по очистке кэша](user-docs/kedo-caсhе.md)
 
 ## Для поддержки
-- [Регламент работы для L1](reg-support.md)
-- [Промпты для поддержки](prom-sup.md)
+- [Регламент работы для L1](support-docs/reg-support.md)
+- [Промпты для поддержки](support-docs/prom-sup.md)
